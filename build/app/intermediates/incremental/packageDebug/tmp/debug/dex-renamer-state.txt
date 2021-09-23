@@ -1,0 +1,4 @@
+#Thu Sep 23 10:37:33 EET 2021
+base.0=/home/asmael/project/Flutter_Apps/test_App/project4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
